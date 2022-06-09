@@ -1,0 +1,13 @@
+C:\Users\mohal\source\repos\Console_Net\Console_Net\bin\Release\netcoreapp3.1\Console_Net.exe
+C:\Users\mohal\source\repos\Console_Net\Console_Net\bin\Release\netcoreapp3.1\Console_Net.deps.json
+C:\Users\mohal\source\repos\Console_Net\Console_Net\bin\Release\netcoreapp3.1\Console_Net.runtimeconfig.json
+C:\Users\mohal\source\repos\Console_Net\Console_Net\bin\Release\netcoreapp3.1\Console_Net.runtimeconfig.dev.json
+C:\Users\mohal\source\repos\Console_Net\Console_Net\bin\Release\netcoreapp3.1\Console_Net.dll
+C:\Users\mohal\source\repos\Console_Net\Console_Net\bin\Release\netcoreapp3.1\Console_Net.pdb
+C:\Users\mohal\source\repos\Console_Net\Console_Net\obj\Release\netcoreapp3.1\Console_Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohal\source\repos\Console_Net\Console_Net\obj\Release\netcoreapp3.1\Console_Net.AssemblyInfoInputs.cache
+C:\Users\mohal\source\repos\Console_Net\Console_Net\obj\Release\netcoreapp3.1\Console_Net.AssemblyInfo.cs
+C:\Users\mohal\source\repos\Console_Net\Console_Net\obj\Release\netcoreapp3.1\Console_Net.csproj.CoreCompileInputs.cache
+C:\Users\mohal\source\repos\Console_Net\Console_Net\obj\Release\netcoreapp3.1\Console_Net.dll
+C:\Users\mohal\source\repos\Console_Net\Console_Net\obj\Release\netcoreapp3.1\Console_Net.pdb
+C:\Users\mohal\source\repos\Console_Net\Console_Net\obj\Release\netcoreapp3.1\Console_Net.genruntimeconfig.cache
